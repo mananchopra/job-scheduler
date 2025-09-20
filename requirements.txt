@@ -1,0 +1,21 @@
+# Job Scheduler System Requirements
+# This project uses only Python standard library modules
+# No external dependencies required!
+
+# Python version requirement
+# python>=3.8
+
+# Standard library modules used:
+# - threading (multi-threading support)
+# - queue (thread-safe queues)
+# - heapq (priority queue implementation)
+# - datetime (time handling)
+# - uuid (unique identifiers)
+# - time (sleep and timing)
+# - enum (enumerations)
+# - sys, os (system operations)
+
+# For development/testing (optional):
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
