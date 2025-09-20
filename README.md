@@ -344,18 +344,6 @@ PYTHONPATH=. python3 src/main/app.py
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Built using Python's standard library threading and queue modules
-- Inspired by enterprise job scheduling systems
-- Demonstrates advanced system design patterns and multi-threading concepts
-
 ---
 
 **Happy Scheduling! 🎯**
-
-For questions or issues, please open a GitHub issue or contact the maintainers.
